@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Power BI, Tableau, JIRA, Agile Methodologies**
 
-- 💬 Ask me about **SQL, OOPS through Java, Python**
+- 💬 Ask me about **SQL, OOPS through Java, Python, Node.js, Django, API**
 
 - 📫 How to reach me **edupugantisaran@gmail.com**
 
